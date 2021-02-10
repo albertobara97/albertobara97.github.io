@@ -82,6 +82,7 @@ main section:not(:last-child) {
 
 a .fab {
   color: white;
+  vertical-align:middle;
 }
 
 .course, .skills {
