@@ -1,1 +1,26 @@
-<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg height="512px" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="comp_x5F_129-fiverr"><g><g id="_x31_13-fiverr_3_"><g><g><g><path d="        M407.363,393.065V173.76H188.654v-13.706c0-22.674,18.398-41.119,41.004-41.119h41.008V36.696h-41.008        c-67.826,0-123.019,55.345-123.019,123.357v13.706H61v82.239h45.637v137.066H61v82.238h180v-82.238h-52.346V255.999h137.454        v137.066H281v82.238h170v-82.238H407.363L407.363,393.065z" style="fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/><path d="        M407.363,77.815c0,22.712-18.365,41.119-41.012,41.119c-22.645,0-41.005-18.407-41.005-41.119        c0-22.713,18.36-41.118,41.005-41.118C388.998,36.696,407.363,55.103,407.363,77.815L407.363,77.815z" style="fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/></g></g></g></g></g></g><g id="Layer_1"/></svg>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Layer_1"/>
+  <ellipse stroke="#ffffff" ry="222" rx="216" id="svg_7" cy="255.45313" cx="262.5" stroke-width="4" fill="none"/>
+  <g stroke="null" id="comp_x5F_129-fiverr">
+   <g stroke="null" id="svg_1">
+    <g stroke="null" id="_x31_13-fiverr_3_">
+     <g stroke="null" id="svg_2">
+      <g stroke="null" id="svg_3">
+       <g stroke="null" id="svg_4">
+        <path stroke="#FFFFFF" id="svg_5" fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m350.48915,329.03481l0,-128.20908l-127.86065,0l0,-8.01274c0,-13.25557 10.75575,-24.0388 23.97157,-24.0388l23.97391,0l0,-48.07819l-23.97391,0c-39.65212,0 -71.9188,32.35554 -71.9188,72.1164l0,8.01274l-26.68126,0l0,48.07819l26.68009,0l0,80.1309l-26.68009,0l0,48.0776l105.23077,0l0,-48.0776l-30.60228,0l0,-80.13031l80.35773,0l0,80.1309l-26.37083,0l0,48.0776l99.38462,0l0,-48.0776l-25.51086,0l0,0z"/>
+        <path stroke="#FFFFFF" id="svg_6" fill="none" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m350.48915,144.7348c0,13.27779 -10.73646,24.0388 -23.97625,24.0388c-13.23862,0 -23.97215,-10.76102 -23.97215,-24.0388c0,-13.27837 10.73354,-24.03822 23.97215,-24.03822c13.23979,-0.00058 23.97625,10.76043 23.97625,24.03822l0,0z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
